@@ -1,0 +1,14 @@
+C:\Users\gmznu\Desktop\c#proje\1\obj\Debug\net9.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmznu\Desktop\c#proje\1\obj\Debug\net9.0\1.AssemblyInfoInputs.cache
+C:\Users\gmznu\Desktop\c#proje\1\obj\Debug\net9.0\1.AssemblyInfo.cs
+C:\Users\gmznu\Desktop\c#proje\1\obj\Debug\net9.0\1.csproj.CoreCompileInputs.cache
+C:\Users\gmznu\Desktop\c#proje\1\bin\Debug\net9.0\1.exe
+C:\Users\gmznu\Desktop\c#proje\1\bin\Debug\net9.0\1.deps.json
+C:\Users\gmznu\Desktop\c#proje\1\bin\Debug\net9.0\1.runtimeconfig.json
+C:\Users\gmznu\Desktop\c#proje\1\bin\Debug\net9.0\1.dll
+C:\Users\gmznu\Desktop\c#proje\1\bin\Debug\net9.0\1.pdb
+C:\Users\gmznu\Desktop\c#proje\1\obj\Debug\net9.0\1.dll
+C:\Users\gmznu\Desktop\c#proje\1\obj\Debug\net9.0\refint\1.dll
+C:\Users\gmznu\Desktop\c#proje\1\obj\Debug\net9.0\1.pdb
+C:\Users\gmznu\Desktop\c#proje\1\obj\Debug\net9.0\1.genruntimeconfig.cache
+C:\Users\gmznu\Desktop\c#proje\1\obj\Debug\net9.0\ref\1.dll
