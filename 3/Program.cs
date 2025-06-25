@@ -1,4 +1,4 @@
-﻿// This program calculates and displays a student's GPA based on their courses, grades, and credit hours.
+﻿// This program calculates and displays a student's GPA based on their courses, grades, and credit hours
 string studentName = "Sophia Johnson";
 string course1Name = "English 101";
 string course2Name = "Algebra 101";

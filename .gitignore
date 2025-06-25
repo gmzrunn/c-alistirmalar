@@ -1,0 +1,28 @@
+# build klasörleri
+bin/
+obj/
+
+# kullanıcı ayarları ve geçici dosyalar
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider ve VS Code
+.idea/
+.vscode/
+
+# .NET build dosyaları
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# publish klasörleri
+publish/
+out/
+
+# diğer
+*.db
+*.sqlite

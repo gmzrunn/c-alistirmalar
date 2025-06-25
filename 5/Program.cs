@@ -1,4 +1,4 @@
-﻿//This program simulates a subscription expiration notification system.
+﻿//This program simulates a subscription expiration notification system
 Random random = new Random();
 int daysUntilExpiration = random.Next(12);
 int discountPercentage = 0;

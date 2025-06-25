@@ -1,4 +1,4 @@
-﻿// This program simulates rolling three dice and calculates a total based on the rolls.
+﻿// This program simulates rolling three dice and calculates a total based on the rolls
 Random dice = new Random();
 
 int roll1 = dice.Next(1, 7);
@@ -7,7 +7,7 @@ int roll3 = dice.Next(1, 7);
 
 int total = roll1 + roll2 + roll3;
 
-Console.WriteLine($"Dice roll: {roll1} + {roll2} + {roll3} = {total}");
+Console.WriteLine($"Total roll: {roll1} + {roll2} + {roll3} = {total}");
 
 if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
 {

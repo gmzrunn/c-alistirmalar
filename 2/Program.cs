@@ -1,4 +1,5 @@
-﻿int currentAssignments = 5;
+﻿//This program calculates the average scores of four students based on their assignment grades and displays their final grades.
+int currentAssignments = 5;
 
 int sophia1 = 93;
 int sophia2 = 87;
